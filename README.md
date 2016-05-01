@@ -35,7 +35,7 @@ $ make all
 - run interpreter
 ```bash
 $ sh unlambda.sh
-> ``.a.b
+> `.a.b
 a
 $ sh unlambda.sh sample/hello.unl
 hello, world!
